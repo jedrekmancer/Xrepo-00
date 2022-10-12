@@ -1,0 +1,8 @@
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\obj\Debug\Dupka1.0.csproj.AssemblyReference.cache
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\obj\Debug\Dupka1.0.csproj.SuggestedBindingRedirects.cache
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\obj\Debug\Dupka1.0.csproj.CoreCompileInputs.cache
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\bin\Debug\Dupka1.0.exe.config
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\bin\Debug\Dupka1.0.exe
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\bin\Debug\Dupka1.0.pdb
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\obj\Debug\Dupka1.0.exe
+C:\Source\Xrepo-00\MyLittleSolution\Dupka1.0\obj\Debug\Dupka1.0.pdb
