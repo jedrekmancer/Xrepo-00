@@ -1,0 +1,8 @@
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\obj\Debug\JedrekSilnia!.csproj.AssemblyReference.cache
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\obj\Debug\JedrekSilnia!.csproj.SuggestedBindingRedirects.cache
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\obj\Debug\JedrekSilnia!.csproj.CoreCompileInputs.cache
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\bin\Debug\JedrekSilnia!.exe.config
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\bin\Debug\JedrekSilnia!.exe
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\bin\Debug\JedrekSilnia!.pdb
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\obj\Debug\JedrekSilnia!.exe
+C:\Source\Xrepo-00\MyLittleSolution\JedrekSilnia!\obj\Debug\JedrekSilnia!.pdb
