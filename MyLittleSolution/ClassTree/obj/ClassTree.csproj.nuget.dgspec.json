@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\!!!\\ClassTree\\ClassTree.csproj": {}
+    "C:\\Source\\Xrepo-00\\MyLittleSolution\\ClassTree\\ClassTree.csproj": {}
   },
   "projects": {
-    "C:\\Source\\!!!\\ClassTree\\ClassTree.csproj": {
+    "C:\\Source\\Xrepo-00\\MyLittleSolution\\ClassTree\\ClassTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\!!!\\ClassTree\\ClassTree.csproj",
+        "projectUniqueName": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ClassTree\\ClassTree.csproj",
         "projectName": "ClassTree",
-        "projectPath": "C:\\Source\\!!!\\ClassTree\\ClassTree.csproj",
+        "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ClassTree\\ClassTree.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\!!!\\ClassTree\\obj\\",
+        "outputPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ClassTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj": {
-                "projectPath": "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj"
+              "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj": {
+                "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj": {
+    "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj",
+        "projectUniqueName": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj",
         "projectName": "TreeUtils",
-        "projectPath": "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj",
+        "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\!!!\\TreeUtils\\obj\\",
+        "outputPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

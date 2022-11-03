@@ -1,10 +1,13 @@
-﻿namespace TreeUtils
+﻿using System.Threading.Channels;
+
+namespace TreeUtils
 {
     public class CheckSign
     {
-        public int Sign;
+        public int val;
+        private char e;
 
-        public CheckSign(char _Sign)
+        public CheckSign(char _Sign, int _val)
         {
             char e = _Sign;
 
@@ -17,6 +20,12 @@
                 Console.WriteLine("oszukujesz, zamykam się i nie gadam z Tobą!");
             }
 
+        }
+        public static int suma (int a, int b)
+        {
+            int c;
+            c = a + b;
+            return c; 
         }
 
     }

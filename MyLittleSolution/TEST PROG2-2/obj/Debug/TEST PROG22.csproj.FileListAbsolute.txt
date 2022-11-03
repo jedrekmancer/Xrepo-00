@@ -1,0 +1,8 @@
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\bin\Debug\TEST PROG2.exe.config
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\bin\Debug\TEST PROG2.exe
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\bin\Debug\TEST PROG2.pdb
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\obj\Debug\TEST PROG22.csproj.AssemblyReference.cache
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\obj\Debug\TEST PROG22.csproj.SuggestedBindingRedirects.cache
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\obj\Debug\TEST PROG22.csproj.CoreCompileInputs.cache
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\obj\Debug\TEST PROG2.exe
+C:\Source\Xrepo-00\MyLittleSolution\TEST PROG2-2\obj\Debug\TEST PROG2.pdb

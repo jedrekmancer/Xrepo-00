@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\!!!\\sorting\\Program-Sortuj.csproj",
+      "projectUniqueName": "C:\\Source\\Xrepo-00\\MyLittleSolution\\sorting\\Program-Sortuj.csproj",
       "projectName": "Program-Sortuj",
-      "projectPath": "C:\\Source\\!!!\\sorting\\Program-Sortuj.csproj",
+      "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\sorting\\Program-Sortuj.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\!!!\\sorting\\obj\\",
+      "outputPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\sorting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

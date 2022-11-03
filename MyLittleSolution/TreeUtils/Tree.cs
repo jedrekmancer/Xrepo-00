@@ -8,59 +8,37 @@ namespace TreeUtils
 {
     public class Tree
     {
+
         private string sign;
         private int baseWidth;
         private int lKloc = 1;
+        private int lSpac;
 
         public Tree(string _sign, int _baseWidth)
         {
             sign = _sign;
             baseWidth = _baseWidth;
-            for (int i = 1; i >= 1; i = i - 2)
+            lSpac = baseWidth / 2;
+
+            for (int i = baseWidth; i >= 1; i -= 2)
             {
-                for (int s1 = 1; s1 <= spac0; s1)
-                PrintSpac(i);
-                PrintKloc(sign);
-                
 
+                for (int s1 = lSpac; s1 > 0; s1--)
+                {
+                    Console.Write(" ");
+                }
+                for (int k1 = lKloc; k1 > 0; k1--)
+                {
+                    Console.Write(sign);
+                }
 
-
-
+                Console.WriteLine();
+                lKloc += 2;
+                lSpac -= 1;
             }
 
-        }
-
-
-        private void PrintSpac(int lSpac)
-        {
-            string spac = " ";
-            lSpac = ((baseWidth + 1) / 2) - 1;
-            for (int i = baseWidth; i >= 1; i = i - 2)
-            {
-                PrintSymb(spac, lSpac);
-            }
-
-        }
-
-        private void PrintKloc(string kloc)
-        {
-            kloc = sign;
-            for (int i = baseWidth; i >= 1; i = i - 2)
-            {
-                PrintSymb(kloc, lKloc);
-            }
-
-        }
-
-        private void PrintSymb(string symb, int lSymb)
-        {
-            for (int i = 0; i <= lSymb; i++)
-            {
-                Console.Write(symb);
-            }
         }
 
     }
-
 
 }

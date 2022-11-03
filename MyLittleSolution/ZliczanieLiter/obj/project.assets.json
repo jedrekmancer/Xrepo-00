@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\!!!\\ZliczanieLiter\\ZliczanieLiter.csproj",
+      "projectUniqueName": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ZliczanieLiter\\ZliczanieLiter.csproj",
       "projectName": "ZliczanieLiter",
-      "projectPath": "C:\\Source\\!!!\\ZliczanieLiter\\ZliczanieLiter.csproj",
+      "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ZliczanieLiter\\ZliczanieLiter.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\!!!\\ZliczanieLiter\\obj\\",
+      "outputPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\ZliczanieLiter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

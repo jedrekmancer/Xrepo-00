@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj": {}
+    "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj": {}
   },
   "projects": {
-    "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj": {
+    "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj",
+        "projectUniqueName": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj",
         "projectName": "TreeUtils",
-        "projectPath": "C:\\Source\\!!!\\TreeUtils\\TreeUtils.csproj",
+        "projectPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\TreeUtils.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\!!!\\TreeUtils\\obj\\",
+        "outputPath": "C:\\Source\\Xrepo-00\\MyLittleSolution\\TreeUtils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

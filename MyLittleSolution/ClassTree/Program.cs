@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using TreeUtils;
 
 class Program
 {
@@ -10,13 +11,17 @@ class Program
         Console.WriteLine("Teraz podaj podstawę trójkąta (liczba całkowita, nieparzysta):");
         int p = Convert.ToInt32(Console.ReadLine());
 
-        //TreeUtils.CheckSign Check1 = new TreeUtils.CheckSign(Znak);
-        TreeUtils.Tree drzewko1 = new TreeUtils.Tree(Znak, p);
+        Console.WriteLine(CheckSign.suma(1, 2));
+        
+
+
+        TreeUtils.CheckSign Check1 = new TreeUtils.CheckSign(Znak, p);
+        TreeUtils.Tree drzewko1 = new TreeUtils.Tree(Convert.ToString(Znak), p);
 
 
         
 
-
+        Console.ReadKey();
 
         //    Console.WriteLine("Jak masz na imię?");
         //    string name = Console.ReadLine();

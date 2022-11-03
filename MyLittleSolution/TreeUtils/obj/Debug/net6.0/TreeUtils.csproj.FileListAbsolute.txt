@@ -22,3 +22,15 @@ C:\Source\!!!\TreeUtils\bin\Debug\net6.0\TreeUtils.deps.json
 C:\Source\!!!\TreeUtils\bin\Debug\net6.0\TreeUtils.dll
 C:\Source\!!!\TreeUtils\bin\Debug\net6.0\TreeUtils.pdb
 C:\Source\!!!\TreeUtils\obj\Debug\net6.0\ref\TreeUtils.dll
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\bin\Debug\net6.0\TreeUtils.deps.json
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\bin\Debug\net6.0\TreeUtils.dll
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\bin\Debug\net6.0\TreeUtils.pdb
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.csproj.AssemblyReference.cache
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.AssemblyInfoInputs.cache
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.AssemblyInfo.cs
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.csproj.CoreCompileInputs.cache
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.dll
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\refint\TreeUtils.dll
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\TreeUtils.pdb
+C:\Source\Xrepo-00\MyLittleSolution\TreeUtils\obj\Debug\net6.0\ref\TreeUtils.dll
