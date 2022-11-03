@@ -1,0 +1,8 @@
+C:\Source\!!!\FuzzBuzz\bin\Debug\FuzzBuzz.exe.config
+C:\Source\!!!\FuzzBuzz\bin\Debug\FuzzBuzz.exe
+C:\Source\!!!\FuzzBuzz\bin\Debug\FuzzBuzz.pdb
+C:\Source\!!!\FuzzBuzz\obj\Debug\FuzzBuzz.csproj.AssemblyReference.cache
+C:\Source\!!!\FuzzBuzz\obj\Debug\FuzzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\Source\!!!\FuzzBuzz\obj\Debug\FuzzBuzz.csproj.CoreCompileInputs.cache
+C:\Source\!!!\FuzzBuzz\obj\Debug\FuzzBuzz.exe
+C:\Source\!!!\FuzzBuzz\obj\Debug\FuzzBuzz.pdb
